@@ -1,16 +1,31 @@
-## Hi there 👋
+Ahmed Omar Darwish 👨‍💻
+Full-Stack .NET Developer | MIS Graduate
 
-<!--
-**AhmedOmarDarwish/AhmedOmarDarwish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Ahmed Omar Darwish, a passionate Full-Stack .NET Developer with a solid foundation in both front-end and back-end development. With a Bachelor’s degree in Management Information Systems (MIS), I bridge the gap between business needs and technical solutions to deliver impactful digital experiences.
 
-Here are some ideas to get you started:
+🚀 Skills & Expertise
+Languages: C#, JavaScript, HTML, CSS, SQL
+Frameworks: ASP.NET Core, Entity Framework
+Tools & Platforms: Visual Studio, Git, Azure DevOps, SQL Server
+Soft Skills: Problem-solving, Teamwork, Adaptability, Communication
+🌟 What I Do
+Build scalable and efficient web applications using .NET technologies
+Design and implement user-friendly front-end interfaces
+Develop robust back-end systems for seamless functionality
+Optimize applications to enhance performance and user experience
+📚 Projects
+🌐 Online & Offline Store Application
+A web application for managing sales both online and offline. Built with ASP.NET Core and SQL Server. Features include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+User authentication and role-based access
+Product management and inventory tracking
+Integrated payment gateway
+📊 MIS Reporting Dashboard
+An interactive dashboard for business reporting. Features include:
+
+Data visualization with dynamic charts and tables
+Integration with SQL Server for real-time analytics
+📞 Let's Connect!
+📧 Email: Ahmedomar.d.t@gmail.com
+🌐 LinkedIn: Ahmed Omar Darwish
+🐙 GitHub: AhmedOmarDarwish
