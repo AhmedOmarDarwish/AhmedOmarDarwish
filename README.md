@@ -39,8 +39,7 @@
 </div>
 
 ###
-
-        
+       
 <h2>🌟 What I Do</h2>
 <p>As a Full-Stack .NET Developer, I focus on delivering end-to-end solutions that drive business success. My work spans across building intuitive user interfaces, crafting high-performance back-end systems, and optimizing applications to meet both user and business needs.</p>
 
@@ -52,9 +51,9 @@
     <li><strong>Performance Optimization:</strong> I continuously monitor and optimize applications for speed, scalability, and efficiency, ensuring that they handle increased user load and deliver optimal performance.</li>
     <li><strong>Continuous Learning:</strong> I stay updated with the latest trends in technology and development practices, continuously improving my skill set to implement best practices in every project.</li>
 </ul>
-            <br/>
-    <br/>
-        <h2>📞 Let's Connect!</h2>
+
+###
+<h2>📞 Let's Connect!</h2>
         <ul>
             <li><strong>Email:</strong> <a href="mailto:Ahmedomar.d.t@gmail.com">Ahmedomar.d.t@gmail.com</a></li>
             <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ahmed-omar-darwish/" target="_blank">Ahmed Omar Darwish</a></li>
