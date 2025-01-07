@@ -2,7 +2,7 @@
     <div>
         <h1>Ahmed Omar Darwish 👨‍💻</h1>
         <h2>Full-Stack .NET Developer | MIS Graduate</h2>
-        <p>Hi there! 👋 I'm Ahmed Omar Darwish, a passionate Full-Stack .NET Developer with a solid foundation in both front-end and back-end development. With a Bachelor’s degree in Management Information Systems (MIS), I bridge the gap between business needs and technical solutions to deliver impactful digital experiences.</p>
+        <p >Hi there! 👋 I'm Ahmed Omar Darwish, a passionate Full-Stack .NET Developer with a solid foundation in both front-end and back-end development. With a Bachelor’s degree in Management Information Systems (MIS), I bridge the gap between business needs and technical solutions to deliver impactful digital experiences.</p>
             <br/>
         <h2>🚀 Skills & Expertise</h2>
         <ul>
@@ -11,7 +11,36 @@
             <li><strong>Tools & Platforms:</strong> Visual Studio, Git, Azure DevOps, SQL Server</li>
             <li><strong>Soft Skills:</strong> Problem-solving, Teamwork, Adaptability, Communication</li>
         </ul>
-            <br/>
+        
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
+
+###
+
+        
 <h2>🌟 What I Do</h2>
 <p>As a Full-Stack .NET Developer, I focus on delivering end-to-end solutions that drive business success. My work spans across building intuitive user interfaces, crafting high-performance back-end systems, and optimizing applications to meet both user and business needs.</p>
 
