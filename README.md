@@ -3,18 +3,24 @@
         <h1>Ahmed Omar Darwish 👨‍💻</h1>
         <h2>Full-Stack .NET Developer | MIS Graduate</h2>
         <p >Hi there! 👋 I'm Ahmed Omar Darwish, a passionate Full-Stack .NET Developer with a solid foundation in both front-end and back-end development. With a Bachelor’s degree in Management Information Systems (MIS), I bridge the gap between business needs and technical solutions to deliver impactful digital experiences.</p>
-            <br/>
-        <h2>🚀 Skills & Expertise</h2>
+        
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedomardarwish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedomardarwish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+        
+###
+<h2>🚀 Skills & Expertise</h2>
         <ul>
             <li><strong>Languages:</strong> C#, JavaScript, HTML, CSS, SQL</li>
             <li><strong>Frameworks:</strong> ASP.NET Core, Entity Framework</li>
             <li><strong>Tools & Platforms:</strong> Visual Studio, Git, Azure DevOps, SQL Server</li>
             <li><strong>Soft Skills:</strong> Problem-solving, Teamwork, Adaptability, Communication</li>
         </ul>
-        
-###
-
-<div align="center">
+  ###
+    <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
