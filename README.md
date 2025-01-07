@@ -1,5 +1,5 @@
 <body>
-    <div class="container">
+    <div>
         <h1>Ahmed Omar Darwish 👨‍💻</h1>
         <h2>Full-Stack .NET Developer | MIS Graduate</h2>
         <p>Hi there! 👋 I'm Ahmed Omar Darwish, a passionate Full-Stack .NET Developer with a solid foundation in both front-end and back-end development. With a Bachelor’s degree in Management Information Systems (MIS), I bridge the gap between business needs and technical solutions to deliver impactful digital experiences.</p>
@@ -12,14 +12,18 @@
             <li><strong>Soft Skills:</strong> Problem-solving, Teamwork, Adaptability, Communication</li>
         </ul>
             <br/>
-        <h2>🌟 What I Do</h2>
-        <ul>
-            <li>Build scalable and efficient web applications using .NET technologies</li>
-            <li>Design and implement user-friendly front-end interfaces</li>
-            <li>Develop robust back-end systems for seamless functionality</li>
-            <li>Optimize applications to enhance performance and user experience</li>
-        </ul>
-        <hr>
+<h2>🌟 What I Do</h2>
+<p>As a Full-Stack .NET Developer, I focus on delivering end-to-end solutions that drive business success. My work spans across building intuitive user interfaces, crafting high-performance back-end systems, and optimizing applications to meet both user and business needs.</p>
+
+<ul>
+    <li><strong>End-to-End Development:</strong> I design and implement scalable web applications using a combination of cutting-edge front-end technologies and robust back-end systems to ensure seamless user experiences and efficient performance.</li>
+    <li><strong>Front-End Development:</strong> I specialize in building responsive, user-friendly interfaces with HTML, CSS, and JavaScript, ensuring that applications are intuitive, visually appealing, and accessible across all devices.</li>
+    <li><strong>Back-End Architecture:</strong> With expertise in ASP.NET Core and Entity Framework, I develop solid back-end systems that handle complex business logic, integrate seamlessly with databases, and ensure high levels of security and reliability.</li>
+    <li><strong>Database Design & Management:</strong> I create well-structured databases and implement efficient data models using SQL Server to ensure smooth data flow and query optimization for fast, reliable performance.</li>
+    <li><strong>Performance Optimization:</strong> I continuously monitor and optimize applications for speed, scalability, and efficiency, ensuring that they handle increased user load and deliver optimal performance.</li>
+    <li><strong>Continuous Learning:</strong> I stay updated with the latest trends in technology and development practices, continuously improving my skill set to implement best practices in every project.</li>
+</ul>
+            <br/>
     <br/>
         <h2>📞 Let's Connect!</h2>
         <ul>
