@@ -3,13 +3,7 @@
         <h1>Ahmed Omar Darwish 👨‍💻</h1>
         <h2>Full-Stack .NET Developer | MIS Graduate</h2>
         <p >Hi there! 👋 I'm Ahmed Omar Darwish, a passionate Full-Stack .NET Developer with a solid foundation in both front-end and back-end development. With a Bachelor’s degree in Management Information Systems (MIS), I bridge the gap between business needs and technical solutions to deliver impactful digital experiences.</p>
-        
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedomardarwish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedomardarwish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+    
         
 ###
 <h2>🚀 Skills & Expertise</h2>
