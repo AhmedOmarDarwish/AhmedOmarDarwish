@@ -1,8 +1,14 @@
 <body>
-    <div>
-        <h1>Ahmed Omar Darwish 👨‍💻</h1>
-        <h2>Full-Stack .NET Developer | MIS Graduate</h2>
+    <div >
+        <h1 align="center">Ahmed Omar Darwish 👨‍💻</h1>
+        <h2 align="center">Full-Stack .NET Developer | MIS Graduate</h2>
         <p >Hi there! 👋 I'm Ahmed Omar Darwish, a passionate Full-Stack .NET Developer with a solid foundation in both front-end and back-end development. With a Bachelor’s degree in Management Information Systems (MIS), I bridge the gap between business needs and technical solutions to deliver impactful digital experiences.</p>
+                  <p align="center">
+    <a href="https://drive.google.com/file/d/1zQlL0PgZB9UJHD9De5u_ojFjCllds_8z/view?usp=sharing">
+      <img src="https://img.shields.io/badge/🔗 My CV-007520?style=flat" style="height:25px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://ahmedomardarwish.github.io/Portfolio/">
+      <img src="https://img.shields.io/badge/🔗 My Portfolio-003580?style=flat" style="height:25px; object-fit:contain;"/></a>
+  </p>
     
         
 ###
