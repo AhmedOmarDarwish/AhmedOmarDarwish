@@ -39,6 +39,12 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AhmedOmarDarwish/AhmedOmarDarwish/output/snake.svg" alt="Snake animation" />
+
+###
        
 <h2>🌟 What I Do</h2>
 <p>As a Full-Stack .NET Developer, I focus on delivering end-to-end solutions that drive business success. My work spans across building intuitive user interfaces, crafting high-performance back-end systems, and optimizing applications to meet both user and business needs.</p>
