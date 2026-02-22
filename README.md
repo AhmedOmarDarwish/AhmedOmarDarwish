@@ -72,10 +72,6 @@
 ###
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedOmarDarwish&theme=dark&hide_border=true" height="150" alt="streak graph" />
-  
-  <img width="30" />
-
 <img src="https://raw.githubusercontent.com/AhmedOmarDarwish/AhmedOmarDarwish/output/snake.svg"   alt="Snake animation" />
 </p>
 
