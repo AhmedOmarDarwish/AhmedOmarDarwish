@@ -4,7 +4,7 @@
   <!-- <h1>Ahmed Omar Darwish 👨‍💻</h1>
   <h3>Full-Stack .NET Developer | MIS Graduate</h3> -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3A8A,100:3B82F6&text=Ahmed%20Omar%20Darwish%20&textBg=false&fontColor=ffffff&fontAlign=50&desc=Software%20Engineer%20|%20Full%20Stack%20.NET%20Developer%20|%20MIS%20Graduate&descSize=20&descAlign=50&descAlignY=50&fontAlignY=36"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3A8A,100:3B82F6&text=Ahmed%20Omar%20Darwish%20&textBg=false&fontColor=ffffff&fontAlign=50&desc=Software%20Engineer%20|%20Full%20Stack%20.NET%20Developer%20|%20MIS%20Graduate&descSize=20&descAlign=50&descAlignY=50&fontAlignY=30"/>
 </div>
   
 
