@@ -4,7 +4,7 @@
   <!-- <h1>Ahmed Omar Darwish 👨‍💻</h1>
   <h3>Full-Stack .NET Developer | MIS Graduate</h3> -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1E3A8A,100:3B82F6&text=Ahmed%20Omar%20Darwish%20&textBg=false&fontColor=ffffff&fontAlign=50&desc=Software%20Engineer%20|%20Full%20Stack%20.NET%20Developer%20|%20MIS%20Graduate&descSize=20&descAlign=50&descAlignY=50&fontAlignY=36"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3A8A,100:3B82F6&text=Ahmed%20Omar%20Darwish%20&textBg=false&fontColor=ffffff&fontAlign=50&desc=Software%20Engineer%20|%20Full%20Stack%20.NET%20Developer%20|%20MIS%20Graduate&descSize=20&descAlign=50&descAlignY=50&fontAlignY=36"/>
 </div>
   
 
@@ -22,7 +22,7 @@
   </a>
 </p>
 </div>
-        <p >Hi there! 👋 I'm Ahmed Omar Darwish, a passionate Full-Stack .NET Developer with a solid foundation in both front-end and back-end development. With a Bachelor’s degree in Management Information Systems (MIS), I bridge the gap between business needs and technical solutions to deliver impactful digital experiences.</p>
+        <p >Hi there!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"/> I'm Ahmed Omar Darwish, a passionate Full-Stack .NET Developer with a solid foundation in both front-end and back-end development. With a Bachelor’s degree in Management Information Systems (MIS), I bridge the gap between business needs and technical solutions to deliver impactful digital experiences.</p>
 
  
         
@@ -112,4 +112,9 @@
         </ul>
         <p>Feel free to reach out for collaborations, freelancing opportunities, or technical discussions! 🚀</p>
     </div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer" width="100%"/>
+</div>
 </body>
