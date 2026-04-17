@@ -1,8 +1,12 @@
 <body>
     <div >
 <div align="center">
-  <h1>Ahmed Omar Darwish 👨‍💻</h1>
-  <h3>Full-Stack .NET Developer | MIS Graduate</h3>
+  <!-- <h1>Ahmed Omar Darwish 👨‍💻</h1>
+  <h3>Full-Stack .NET Developer | MIS Graduate</h3> -->
+
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=4F0FD2&height=200&section=header&text=Amr%20Elmaghraby&fontSize=50&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20|%20.NET%20Developer&descAlignY=55&descSize=18" width="100%](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ahmed%20Omar%20Darwish%20&textBg=false&fontAlign=50&desc=Software%20Engineer%20|%20Full%20Stack%20.NET%20Developer%20|%20MIS%20Graduate&descSize=20&descAlign=50&descAlignY=50&fontAlignY=36)"/>
+</div>
+  
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ahmed-omar-darwish/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/></a>
