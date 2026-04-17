@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="https://drive.google.com/file/d/1zQlL0PgZB9UJHD9De5u_ojFjClldsX8z/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1zQlL0PgZB9UJHD9De5u_ojFjCllds_8z/view?usp=sharing">
     <img src="https://img.shields.io/static/v1?message=My%20CV&logo=google-drive&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
@@ -27,13 +27,17 @@
  
         
 ###
-<h2>🚀 Skills & Expertise</h2>
-        <ul>
-            <li><strong>Languages:</strong> C#, JavaScript, HTML, CSS, SQL</li>
-            <li><strong>Frameworks:</strong> ASP.NET Core, Entity Framework</li>
-            <li><strong>Tools & Platforms:</strong> Visual Studio, Git, Azure DevOps, SQL Server</li>
-            <li><strong>Soft Skills:</strong> Problem-solving, Teamwork, Adaptability, Communication</li>
-        </ul>
+<h2>🚀 Skills & Tools</h2>
+<ul>
+  <li><strong>Programming Languages:</strong> C#, Java, JavaScript (ES6+)</li>
+  <li><strong>Core Concepts:</strong> OOP, SOLID Principles, Data Structures, Algorithms, Problem Solving, Design Patterns</li>
+  <li><strong>Architectures:</strong> N-Tier Architecture, MVC, Clean Architecture</li>
+  <li><strong>Backend:</strong> .NET, ASP.NET Core, Web API, RESTful APIs, LINQ, Entity Framework Core, SQL Server, Identity, JWT, Hangfire, FluentValidation, Serilog</li>
+  <li><strong>Frontend:</strong> Angular, HTML5, CSS3, Bootstrap, Tailwind CSS, Responsive Design</li>
+  <li><strong>Tools & Platforms:</strong> Git, GitHub, Visual Studio, Postman, Swagger, Azure DevOps</li>
+  <li><strong>Methodologies:</strong> Agile (Scrum)</li>
+  <li><strong>Soft Skills:</strong> Communication, Teamwork, Problem Solving, Time Management, Adaptability</li>
+</ul>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
