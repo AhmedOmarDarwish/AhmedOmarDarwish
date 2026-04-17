@@ -104,15 +104,6 @@
 </ul>
 
 ###
-<h2>📞 Let's Connect!</h2>
-        <ul>
-            <li><strong>Email:</strong> <a href="mailto:Ahmedomar.d.t@gmail.com">Ahmedomar.d.t@gmail.com</a></li>
-            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ahmed-omar-darwish/" target="_blank">Ahmed Omar Darwish</a></li>
-            <li><strong>GitHub:</strong> <a href="https://github.com/AhmedOmarDarwish" target="_blank">AhmedOmarDarwish</a></li>
-        </ul>
-        <p>Feel free to reach out for collaborations, freelancing opportunities, or technical discussions! 🚀</p>
-    </div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer" width="100%"/>
