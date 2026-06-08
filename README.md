@@ -29,7 +29,7 @@
 ###
 <h2>🚀 Skills & Tools</h2>
 <ul>
-  <li><strong>Programming Languages:</strong> C#, Java, JavaScript (ES6+)</li>
+  <li><strong>Programming Languages:</strong> C#, Java, JavaScript (ES6+), TypeScript</li>
   <li><strong>Core Concepts:</strong> OOP, SOLID Principles, Data Structures, Algorithms, Problem Solving, Design Patterns</li>
   <li><strong>Architectures:</strong> N-Tier Architecture, MVC, Clean Architecture</li>
   <li><strong>Backend:</strong> .NET, ASP.NET Core, Web API, RESTful APIs, LINQ, Entity Framework Core, SQL Server, Identity, JWT, Hangfire, FluentValidation, Serilog</li>
