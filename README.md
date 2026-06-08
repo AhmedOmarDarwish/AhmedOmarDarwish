@@ -30,85 +30,131 @@
 
 <br />
 
-<h2>🚀 Skills & Tools</h2>
+<h2 align="center">🚀 Skills & Tools</h2>
+<p align="center"><em>Technologies and practices I use to build scalable, maintainable applications.</em></p>
 
-<h3>💻 Programming Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
+<br />
 
-<h3>🧠 Core Concepts</h3>
-<p>
-  <img src="https://img.shields.io/badge/OOP-1E3A8A?style=for-the-badge" alt="OOP"/>
-  <img src="https://img.shields.io/badge/SOLID-3B82F6?style=for-the-badge" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-2563EB?style=for-the-badge" alt="Data Structures"/>
-  <img src="https://img.shields.io/badge/Algorithms-1D4ED8?style=for-the-badge" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-1E40AF?style=for-the-badge" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Design%20Patterns-1E3A8A?style=for-the-badge" alt="Design Patterns"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Programming Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Core Concepts</h3>
+      <p>
+        <img src="https://img.shields.io/badge/OOP-1E3A8A?style=for-the-badge" alt="OOP"/>
+        <img src="https://img.shields.io/badge/SOLID-3B82F6?style=for-the-badge" alt="SOLID"/>
+        <img src="https://img.shields.io/badge/Data%20Structures-2563EB?style=for-the-badge" alt="Data Structures"/>
+        <img src="https://img.shields.io/badge/Algorithms-1D4ED8?style=for-the-badge" alt="Algorithms"/>
+        <img src="https://img.shields.io/badge/Problem%20Solving-1E40AF?style=for-the-badge" alt="Problem Solving"/>
+        <img src="https://img.shields.io/badge/Design%20Patterns-1E3A8A?style=for-the-badge" alt="Design Patterns"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Architectures</h3>
+      <p>
+        <img src="https://img.shields.io/badge/N--Tier-0F172A?style=for-the-badge" alt="N-Tier"/>
+        <img src="https://img.shields.io/badge/MVC-334155?style=for-the-badge" alt="MVC"/>
+        <img src="https://img.shields.io/badge/Clean%20Architecture-475569?style=for-the-badge" alt="Clean Architecture"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 Methodologies</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Agile"/>
+        <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⚙️ Backend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+        <img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Web API"/>
+        <img src="https://img.shields.io/badge/RESTful%20APIs-009688?style=for-the-badge" alt="RESTful APIs"/>
+        <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
+        <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+        <img src="https://img.shields.io/badge/Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Identity"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+        <img src="https://img.shields.io/badge/Hangfire-00ADD8?style=for-the-badge" alt="Hangfire"/>
+        <img src="https://img.shields.io/badge/FluentValidation-68217A?style=for-the-badge" alt="FluentValidation"/>
+        <img src="https://img.shields.io/badge/Serilog-000000?style=for-the-badge" alt="Serilog"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Responsive%20Design-64748B?style=for-the-badge" alt="Responsive Design"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Tools & Platforms</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+        <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge" alt="Azure DevOps"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>🤝 Soft Skills</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Communication-3B82F6?style=flat-square" alt="Communication"/>
+        <img src="https://img.shields.io/badge/Teamwork-2563EB?style=flat-square" alt="Teamwork"/>
+        <img src="https://img.shields.io/badge/Collaboration-1D4ED8?style=flat-square" alt="Collaboration"/>
+        <img src="https://img.shields.io/badge/Time%20Management-1E40AF?style=flat-square" alt="Time Management"/>
+        <img src="https://img.shields.io/badge/Adaptability-1E3A8A?style=flat-square" alt="Adaptability"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3>🏗️ Architectures</h3>
-<p>
-  <img src="https://img.shields.io/badge/N--Tier-0F172A?style=for-the-badge" alt="N-Tier"/>
-  <img src="https://img.shields.io/badge/MVC-334155?style=for-the-badge" alt="MVC"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-475569?style=for-the-badge" alt="Clean Architecture"/>
-</p>
+<br />
 
-<h3>⚙️ Backend</h3>
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Web API"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-009688?style=for-the-badge" alt="RESTful APIs"/>
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Identity"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Hangfire-00ADD8?style=for-the-badge" alt="Hangfire"/>
-  <img src="https://img.shields.io/badge/FluentValidation-68217A?style=for-the-badge" alt="FluentValidation"/>
-  <img src="https://img.shields.io/badge/Serilog-000000?style=for-the-badge" alt="Serilog"/>
-</p>
-
-<h3>🎨 Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-64748B?style=for-the-badge" alt="Responsive Design"/>
-</p>
-
-<h3>🛠️ Tools & Platforms</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge" alt="Azure DevOps"/>
-</p>
-
-<h3>📋 Methodologies</h3>
-<p>
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Agile"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum"/>
-</p>
-
-<h3>🤝 Soft Skills</h3>
-<p>
-  <img src="https://img.shields.io/badge/Communication-3B82F6?style=flat-square" alt="Communication"/>
-  <img src="https://img.shields.io/badge/Teamwork-2563EB?style=flat-square" alt="Teamwork"/>
-  <img src="https://img.shields.io/badge/Collaboration-1D4ED8?style=flat-square" alt="Collaboration"/>
-  <img src="https://img.shields.io/badge/Time%20Management-1E40AF?style=flat-square" alt="Time Management"/>
-  <img src="https://img.shields.io/badge/Adaptability-1E3A8A?style=flat-square" alt="Adaptability"/>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" height="42" alt="C#"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" height="42" alt=".NET"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title="ASP.NET Core" height="42" alt="ASP.NET Core"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" title="Angular" height="42" alt="Angular"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="42" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" height="42" alt="SQL Server"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" height="42" alt="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" height="42" alt="Azure DevOps"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="42" alt="Git"/>
+</div>
 
 <br />
 
